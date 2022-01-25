@@ -1,18 +1,18 @@
 body {
-  background: #44AA44;
-  background-color: #44AA44;
+  background-color: #070f57;
+  color: beige;
 }
 
 h1 {
-   font-family: Arial;
-   font-size: 3em;
+  font-family: Arial;
+  font-size: 3em;
 }
 
 p {
-   font-family Times New Roman;
-   font-size: 1.5em;
+  font-family: Times New Roman;
+  font-size: 1.5em;
 }
 
 a {
-   color: white;
+  color: white;
 }
